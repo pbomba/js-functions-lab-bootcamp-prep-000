@@ -1,13 +1,13 @@
 // write your code below!
 
-Function happyHolidays () {
+function happyHolidays () {
   return "Happy holidays!";
 }
 
-Function happyHolidaysTo (name) {
+function happyHolidaysTo (name) {
   return `Happy holidays ${name}`;
 }
 
-Function happyHolidayTo (name, holiday) {
+function happyHolidayTo (name, holiday) {
   return `Happy ${holiday}, ${name}`;
 }
