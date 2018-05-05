@@ -1,7 +1,9 @@
 // write your code below!
 
 Function happyHolidays(){
-  return "Happy Holidays";
+  return "Happy holidays";
 }
 
-Function 
+Function happyHolidaysTo(name){
+  return `Happy holidays ${name}`;
+}
