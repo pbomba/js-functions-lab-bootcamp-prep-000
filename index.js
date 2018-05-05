@@ -8,6 +8,6 @@ Function happyHolidaysTo (name) {
   return `Happy holidays ${name}`;
 }
 
-Function happyHolidayTo ("name", "holiday") {
-  return `Happy ${holiday}, ${name}`
+Function happyHolidayTo (name, holiday) {
+  return `Happy ${holiday}, ${name}`;
 }
